@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codersam10&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codersam10&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; border-radius:10px; box-shadow:0 0 10px -1px hsl(0,100%,100%);" />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=codersam10&icon=5&color=0)](https://visitcount.itsvg.in)
 
