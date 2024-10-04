@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Samarth, a passionate self taught frontend developer.<br><br>🛠️ Some of the technologies I'm proficient in:<br>- Languages: JavaScript, HTML, CSS<br>- Frameworks: React, Tailwind CSS, Bootstrap, Node.js<br>- Tools: Git, Github, Chrome DevTools, VS Code<br><br>📚 Outside of coding, I enjoy watching Space Exploration & Science videos on YouTube, listening to Music and learning about Macro Economics & Geopolitics.<br><br>📫 Feel free to reach out to me via email at 📧 savantsamarth@gmail.com or connect with me on 🔗LinkedIn https://www.linkedin.com/in/samarth-savant/ 
+👋 Hi there! I'm Samarth, a passionate self taught frontend developer.<br><br>🛠️ Some of the technologies I'm proficient in:<br>- Languages: JavaScript, HTML, CSS<br>- Frameworks: React, Redux Toolkit, Tailwind CSS, Bootstrap, Node.js<br>- Tools: Git, Github, Chrome DevTools, VS Code<br><br>📚 Outside of coding, I enjoy watching Space Exploration & Science videos on YouTube, listening to Music and learning about Macro Economics & Geopolitics.<br><br>📫 Feel free to reach out to me via email at 📧 savantsamarth@gmail.com or connect with me on 🔗LinkedIn https://www.linkedin.com/in/samarth-savant/ 
 
 
 ## 🌐 Socials:
